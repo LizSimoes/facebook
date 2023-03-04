@@ -22,10 +22,13 @@ export default function Main() {
           <div className="color">
             <button>Criar nova conta</button>
           </div>
+          <div id="indent">
           <p>
             <a href="">Criar uma Página</a> para uma celebridade, uma marca ou
             uma empresa.
           </p>
+          </div>
+          
         </div>
       </div>
     </main>

@@ -117,17 +117,20 @@
   background: #16a913;
 }
 
-p {
-  margin-top: 45px;
+#indent p {
+  margin-top: 55px;
+  margin-top: 55px;
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
+  
 }
 
-p a {
+#indent p a {
   text-decoration: none;
   color: black;
   font-weight: bold;
+  
 }
 
 p a:hover {
